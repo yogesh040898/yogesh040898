@@ -1,5 +1,6 @@
 ### 🐈 Hey there! I am using GitHub.
 <a> <img src="https://komarev.com/ghpvc/?username=yogesh040898&style=flat-square" alt="yogesh040898" /> </a>
+![Twitter Follow](https://img.shields.io/twitter/follow/Rokin_Yash04?label=Yogesh%20Sharma&style=social)
 
 ## Git Statistics
 
@@ -23,13 +24,14 @@
 <br />
 <br />
 
-## Connect me with
+## Connect me with	
 
 [<img align="left" alt="RokinYash04 | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="RokinYash04 | Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 [<img align="left" alt="RokinYash04 | Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img align="left" alt="yogesh040898 | Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
 [<img align="left" alt="yogesh040898 | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="yogesh040898 | Tweeter" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][tweeter]
 
 <br />
 
@@ -38,5 +40,6 @@
 [youtube]: https://www.youtube.com/channel/UCmmHOsxe5TldB_pasaKSv-Q
 [github]: https://github.com/yogesh040898
 [linkedin]: https://linkedin.com/in/yogeshsharma04
+[tweeter]: https://twitter.com/Rokin_Yash04
 
 
