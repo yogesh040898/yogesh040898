@@ -19,7 +19,7 @@
 </p>
 
 
-## Skills
+## 👨‍💼️ Skills
 	
 <img align="left" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -35,7 +35,7 @@
 <br />
 <br />
 
-## Connect me with	
+## 📱️ Connect me with	
 
 [<img align="left" alt="RokinYash04 | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="RokinYash04 | Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
