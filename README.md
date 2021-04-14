@@ -1,5 +1,5 @@
 ### 🐈 Hey there! I am using GitHub.
-<a> <img src="https://komarev.com/ghpvc/?username=yogesh040898&style=flat-square" alt="okta-10" /> </a>
+<a> <img src="https://komarev.com/ghpvc/?username=yogesh040898&style=flat-square" alt="yogesh040898" /> </a>
 
 ## Connect me with
 
@@ -7,9 +7,11 @@
 [<img align="left" alt="RokinYash04 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="RokinYash04 | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-##
+## Git Statistics
+
 ![Github Stats](https://git-stats-git-master-yogesh040898.vercel.app/api?username=yogesh040898&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=radical)
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogesh040898&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://instagram.com/rokin_yash04
 [telegram]: https://t.me/RokinYash04
