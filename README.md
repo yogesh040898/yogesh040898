@@ -1,5 +1,5 @@
 ### 🐈 Hey there! I am using GitHub.
-https://komarev.com/ghpvc/?username=yogesh040898&style=flat-square
+<a> <img src="https://komarev.com/ghpvc/?username=yogesh040898&style=flat-square" alt="okta-10" /> </a>
 
 ## Connect me with
 
