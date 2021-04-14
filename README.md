@@ -3,12 +3,6 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2021)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Rokin_Yash04?label=Yogesh%20Sharma&style=social)
 
-## Git Statistics
-
-![Github Stats](https://git-stats-git-master-yogesh040898.vercel.app/api?username=yogesh040898&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=radical)
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogesh040898&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=radical)
-![Top Langs](https://git-stats-git-master-yogesh040898.vercel.app/api/top-langs/?username=yogesh040898&&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=radical)
-
 ## 💻 My Workspace 
 
 <p align='center'>
@@ -18,6 +12,11 @@
   <img src="https://img.shields.io/badge/nvidia-rtx%202060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
+## Git Statistics
+
+![Github Stats](https://git-stats-git-master-yogesh040898.vercel.app/api?username=yogesh040898&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=radical)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogesh040898&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=radical)
+![Top Langs](https://git-stats-git-master-yogesh040898.vercel.app/api/top-langs/?username=yogesh040898&&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=radical)
 
 ## 👨‍💼️ Skills
 	
