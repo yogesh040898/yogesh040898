@@ -11,7 +11,8 @@
 
 ![Github Stats](https://git-stats-git-master-yogesh040898.vercel.app/api?username=yogesh040898&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=radical)
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogesh040898&show_icons=true&count_private=true&hide_border=false&layout=compact&&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![willianrod's wakatime stats](https://git-stats-git-master-yogesh040898.vercel.app/api/wakatime?username=yogesh040898)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://git-stats-git-master-yogesh040898.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://instagram.com/rokin_yash04
 [telegram]: https://t.me/RokinYash04
