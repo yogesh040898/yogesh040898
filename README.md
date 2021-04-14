@@ -19,6 +19,7 @@
 [<img align="left" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />]
 [<img align="left" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />]
 
+<br />
 
 ## Connect me with
 
@@ -29,7 +30,6 @@
 [<img align="left" alt="yogesh040898 | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
-
 
 [instagram]: https://instagram.com/rokin_yash04
 [telegram]: https://t.me/RokinYash04
